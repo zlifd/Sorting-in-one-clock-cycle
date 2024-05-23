@@ -6,3 +6,6 @@ Given m n-bits words, we may sort them in ascending order by setting `sortType=0
 
 
 ![](/behav_sim.png)
+
+
+But note that this method may not be practical in synthesis since we can't do the whole sorting within 1 clock cycle!
